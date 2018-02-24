@@ -9,10 +9,8 @@ CoCo is the first community that attempts to accurately and transparently reward
 
 CoCo is an Open Source social network and communications platform which extends itself to a variety of rich features and functionality including free digital payments and a marketplace for goods and services.
 
-For more info: http://cocozl.com/@cocozl.com
+For more info: http://cocozl.com
 
-## Preview
-![Preview](https://user-images.githubusercontent.com/16245250/35974135-6fe56d5a-0d0a-11e8-99f6-a90d59696f82.png)
 
 ## Usage
 
@@ -26,7 +24,3 @@ yarn dev-server
 
 ## Contribution
 So you found a bug? Or perhaps you just want to improve something? Patches are welcome! If you would like to contribute, but don't know what to work on, check the issues list.
-
-## Backers
-
-CoCo is an MIT-licensed open source project. It's an independent project with its ongoing development made possible entirely thanks to the support by these awesome backers.
