@@ -15,7 +15,7 @@ For more info: http://cocozl.com
 ## Usage
 
 ```
-git clone https://github.com/cocozlorg/cocozl.git
+git clone https://github.com/iguozi/cocozl
 cd busy
 
 yarn install
